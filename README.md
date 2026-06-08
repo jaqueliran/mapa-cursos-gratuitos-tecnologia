@@ -67,6 +67,10 @@ Plataforma com cursos gratuitos e programas de formação em tecnologia e negóc
 [https://ticemtrilhas.org.br/](https://ticemtrilhas.org.br/)
 Trilhas formativas gratuitas em tecnologia da informação e comunicação.
 
+**IFRS - Cursos Livres**
+[https://moodle.ifrs.edu.br/](https://moodle.ifrs.edu.br/)
+Verifique datas de inscrição, assim como outros IFs; catálogo de cursos varia. 
+
 ---
 
 ## CURSOS ESPECÍFICOS ##
