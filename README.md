@@ -109,7 +109,26 @@ Projeto educacional voltado à formação de pessoas trans em tecnologia.
 
 ---
 
-## EM INGLÊS 
+## PRATICAR PROGRAMAÇÃO
+
+EM PORTUGUÊS
+**DECODA MTST**
+[https://decoda.mtst.tec.br/] (https://decoda.mtst.tec.br/)
+
+**KHAN ACADEMY**
+[https://pt.khanacademy.org/computing] (https://pt.khanacademy.org/computing)
+
+**CURSO EM VÍDEO**
+[https://youtu.be/S9uPNppGsGo?si=Pp0cYrYgSmGE1Y1a](https://youtu.be/S9uPNppGsGo?si=Pp0cYrYgSmGE1Y1a)
+Diversos cursos, fuce o canal. No site, dá pra se inscrever e obter certificado (pago). 
+
+**RUST - TeClas**
+[https://youtu.be/hFYq02At29Y?si=t-wGLYqcCY-mQYw5](https://youtu.be/hFYq02At29Y?si=t-wGLYqcCY-mQYw5)
+Zawacki ensina Rust
+
+
+
+EM INGLÊS 
 
 **CS50 – Introduction to Computer Science**
 [https://harvardonline.harvard.edu/course/cs50-introduction-computer-science](https://harvardonline.harvard.edu/course/cs50-introduction-computer-science)
@@ -131,6 +150,14 @@ Cursos interativos de programação com aulas em vídeo e prática integrada.
 [https://www.theodinproject.com/](https://www.theodinproject.com/)
 Trilha gratuita e completa de desenvolvimento full stack.
 
+**EXERCISM**
+[https://exercism.org/](https://exercism.org/)
+100% GRATUITO, tem 82 linguagens para aprender, praticar e mentorar. 
+
+**W3 SCHOOLS**
+[https://www.w3schools.com/](https://www.w3schools.com/)
+Linguagens d eprogramação, bancos de dados e ferramentas. 
+
 ---
 
 ## SEM CERTIFICADO OU NÃO ESPECIFICADO 
@@ -150,6 +177,10 @@ Cursos de capacitação profissional do Google, com certificados pagos.
 **IBM SkillsBuild**
 [https://skillsbuild.org/pt-br/college-students](https://skillsbuild.org/pt-br/college-students)
 Plataforma educacional da IBM com cursos gratuitos em tecnologia e carreira.
+
+**MIT OpenCoourseWare**
+[https://ocw.mit.edu/search/?q=programming](https://ocw.mit.edu/search/?q=programming)
+Cursos do MIT gratuitos(!)
 
 **Hardware (YouTube)**
 [https://www.youtube.com/playlist?list=PLimhluAb3HwY5GgS4RqZVXnbPo0p9v-Eo](https://www.youtube.com/playlist?list=PLimhluAb3HwY5GgS4RqZVXnbPo0p9v-Eo)
