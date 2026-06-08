@@ -113,10 +113,10 @@ Projeto educacional voltado à formação de pessoas trans em tecnologia.
 
 EM PORTUGUÊS
 **DECODA MTST**
-[https://decoda.mtst.tec.br/] (https://decoda.mtst.tec.br/)
+[https://decoda.mtst.tec.br/](https://decoda.mtst.tec.br/)
 
 **KHAN ACADEMY**
-[https://pt.khanacademy.org/computing] (https://pt.khanacademy.org/computing)
+[https://pt.khanacademy.org/computing](https://pt.khanacademy.org/computing)
 
 **CURSO EM VÍDEO**
 [https://youtu.be/S9uPNppGsGo?si=Pp0cYrYgSmGE1Y1a](https://youtu.be/S9uPNppGsGo?si=Pp0cYrYgSmGE1Y1a)
