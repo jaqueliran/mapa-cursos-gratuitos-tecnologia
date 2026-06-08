@@ -79,10 +79,6 @@ Formação intensiva e gratuita em Engenharia de Software, com processo seletivo
 [https://hackersdobem.org.br/](https://hackersdobem.org.br/)
 Programa gratuito de formação em cibersegurança.
 
-**SER+TECH – Nuclea (INSCRIÇÕES ATÉ 01/02/2026)**
-[https://ada.tech/oportunidades/nuclea-ser-mais-tech-2026](https://ada.tech/oportunidades/nuclea-ser-mais-tech-2026)
-Formação em back-end para mulheres e pessoas pretas ou pardas, com prazo de inscrição.
-
 ---
 
 ## DIVERSIDADE
@@ -161,4 +157,4 @@ Playlist gratuita sobre fundamentos de hardware, sem certificação.
 
 
 Curadoria e Organização: jaqueliran, grupo Univesp Mulheres Computação (turma 2025)
-Última atualização: 22/01/26
+Última atualização: 08/06/2026
